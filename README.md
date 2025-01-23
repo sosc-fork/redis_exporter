@@ -1,15 +1,4 @@
-# Prometheus ValKey & Redis Metrics Exporter
-
-[![Tests](https://github.com/oliver006/redis_exporter/actions/workflows/tests.yml/badge.svg)](https://github.com/oliver006/redis_exporter/actions/workflows/tests.yml)
- [![Coverage Status](https://coveralls.io/repos/github/oliver006/redis_exporter/badge.svg?branch=master)](https://coveralls.io/github/oliver006/redis_exporter?branch=master) [![codecov](https://codecov.io/gh/oliver006/redis_exporter/branch/master/graph/badge.svg)](https://codecov.io/gh/oliver006/redis_exporter) [![docker_pulls](https://img.shields.io/docker/pulls/oliver006/redis_exporter.svg)](https://img.shields.io/docker/pulls/oliver006/redis_exporter.svg) [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
-
-Prometheus exporter for ValKey metrics (Redis-compatible).\
-Supports ValKey and Redis 2.x, 3.x, 4.x, 5.x, 6.x, and 7.x
-
-#### Ukraine is still suffering from Russian aggression, [please consider supporting Ukraine with a donation](https://www.supportukraine.co/).
-
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
-
+# Prometheus ValKey & Redis 
 
 ## Building and running the exporter
 
